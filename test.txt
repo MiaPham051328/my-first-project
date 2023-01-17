@@ -2,3 +2,4 @@ my first file
 my second line
 my third line is going to conflict
 my fourth line
+my fifth line
